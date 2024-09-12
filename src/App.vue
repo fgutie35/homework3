@@ -52,7 +52,7 @@
 
   </selection>
 
-  <section class="create todo">
+  <section class="create-todo">
     <h3>CREATE A TO DO LIST</h3>
     <form @submit.prevent = "addTodo">
       <h4>What's on your to do list?</h4>
